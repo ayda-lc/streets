@@ -5,6 +5,7 @@ author: "Paul Le"
 categories: sample
 tags: [sample]
 image: arctic-1.jpg
+hidden: true
 ---
 
 # Markdown Support
