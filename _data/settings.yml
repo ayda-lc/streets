@@ -7,8 +7,8 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Old Town', folder: 'pages', file: 'resources.html'}
-- {name: 'Richmond Lakes', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Old Town', folder: 'pages', file: 'old-town.html'}
+- {name: 'Richmond Lakes', folder: 'pages', file: 'richmond-lakes.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
