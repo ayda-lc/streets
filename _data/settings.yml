@@ -13,6 +13,9 @@ menu:
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
+# so put the stuff about Richmond Lakes under category sample
+# and put the stuff about old town under category resources
+
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter', link: 'https://twitter.com/paululele'}
