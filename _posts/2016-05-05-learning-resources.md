@@ -2,7 +2,7 @@
 layout: post
 title: "a first post"
 author: "Paul Le"
-categories: old-town
+categories: resources
 tags: [old town,sample]
 image: arctic-4.jpg
 ---
