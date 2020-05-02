@@ -33,3 +33,5 @@ You have three categories you can now use:
 If you don't use those category tags in your yaml, the site will break. 
 
 Try to not delete any files. That too seems to cause chaos. 
+
+Note also that your changes can take a few minutes to take effect. Have a different browser _than the one you're working in_ open incognito to reload to see changes.
