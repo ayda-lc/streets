@@ -23,3 +23,13 @@ tags: [documentation,sample]
 image: cuba-1.jpg
 ---
 ```
+
+You have three categories you can now use:
+
+- documentation
+- richmond-lakes
+- old-town 
+
+If you don't use those category tags in your yaml, the site will break. 
+
+Try to not delete any files. That too seems to cause chaos. 
